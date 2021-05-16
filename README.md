@@ -1,7 +1,7 @@
 ### Hi, I'm Kush vyas 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Android   ...
 - 🌱 I’m currently learning Kotil and PHP ...
