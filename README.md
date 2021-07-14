@@ -28,3 +28,4 @@
 
 ## Reach me via:
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/code.kv/)
+[![Youtube](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC81DJHkN_WLf95Mcwe06ylg)
