@@ -4,6 +4,8 @@
 <p align="center"> I am Kush Vyas. I Love ❤️ programming . </p>
 
 <h3 align="center"> Language & Skills </h3>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67318248/125672651-690a46a8-b441-44d5-8646-303c6e1bfd95.gif" width="500" height="320" />
+
 
 - JAVA
 - C++
