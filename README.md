@@ -1,6 +1,6 @@
-### Hi, I'm Kush vyas 👋
+### Hi, I'm Kush vyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <p align="center"> I am Kush Vyas. I Love ❤️ programming . </p>
 
 <h3 align="center"> Language & Skills </h3>
