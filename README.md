@@ -20,10 +20,7 @@
 - 🌱 I’m currently learning Kotiln and PHP ...
 - 🤔 I’m looking for help with Create Project  ...
 - 💬 Ask me about Android app  ...
-- 📫 How to reach me: Instagram : https://www.instagram.com/code.kv/       
-- Youtube   : https://www.youtube.com/channel/UC81DJHkN_WLf95Mcwe06ylg
-- Website   : https://codekv.github.io/kushvyas.github.io/ 
- 
+
 
 ![GitHub metrics](https://metrics.lecoq.io/codekv)  
 
@@ -31,3 +28,4 @@
 ## Reach me via:
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/code.kv/)
 [![Youtube](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC81DJHkN_WLf95Mcwe06ylg)
+[![Website](https://img.shields.io/badge/website-gray.svg?style=for-the-badge&logo=website)](https://codekv.github.io/kushvyas.github.io/ )
