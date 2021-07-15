@@ -30,7 +30,7 @@ Project | Language | Last commit
 [OTP](https://github.com/codekv/OTP) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/OTP)
 [FoodMenu](https://github.com/codekv/FoodMenu) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/FoodMenu)
 [Personal Dashboard](https://github.com/codekv/PersonalDashboard) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/PersonalDashboard)
-[FoodMenu](https://github.com/codekv/codekv/FoodMenu) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/codekv/FoodMenu)
+[FoodMenu](https://github.com/codekv/codekv/FoodMenu) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/FoodMenu)
 [AndridDeveloper RoadMap](https://github.com/codekv/AndridDeveloper_RoadMap) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/AndridDeveloper_RoadMap)
 [ToDoTask](https://github.com/codekv/ToDoTask) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/ToDoTask)
 
