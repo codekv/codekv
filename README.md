@@ -24,6 +24,8 @@
  ## **My projects** with awesome README.md file.
 Project | Language | Last commit
 -------| ----------| -----------
+[MiniBank](https://github.com/codekv/MiniBank) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/MiniBank)
+[BusBooking UI](https://github.com/codekv/BusBooking) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/BusBooking)
 [Night Mode](https://github.com/codekv/nightmode) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/nightmode)
 [Image Silder](https://github.com/codekv/ImageSilder) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/ImageSilder)
 [Calculator](https://github.com/Calculator) |<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> |  ![](https://badgen.net/github/last-commit/codekv/Calculator)
